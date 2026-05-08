@@ -1,4 +1,4 @@
-# Othusitse Lobakaeng // Digital Profile V1.0
+# Othusitse Lobakaeng | Digital Profile V1.0
 
 A high-performance, data-driven digital resume and information specialist hub. This project is built using the Next.js App Router and a decoupled data architecture to demonstrate modern web standards and technical accuracy.
 
