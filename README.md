@@ -2,7 +2,7 @@
 
 A high-performance, data-driven digital resume and information specialist hub. This project is built using the Next.js App Router and a decoupled data architecture to demonstrate modern web standards and technical accuracy.
 
-**Live Link:** [Insert Your Vercel URL Here]
+**Live Link:** [Link loading . . .]
 
 ## 🚀 Technical Highlights
 - **Lighthouse Score (100/100):** Optimized for sub-second load times and perfect accessibility.
